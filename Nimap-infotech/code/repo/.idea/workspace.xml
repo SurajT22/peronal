@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ec9379-756e-461c-9ef7-8d0d4f75cf4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/celery.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/celery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/celery_with_django/django_celery_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/celery_with_django/mainapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/core/templates/core/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/core/templates/core/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/debug_toolbar/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/debug_toolbar/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/django/core/management/commands/diffsettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/django/core/management/commands/diffsettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/rest_framework/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/env/Lib/site-packages/rest_framework/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/locustfiles/browse_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/locustfiles/browse_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/templates/emails/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/templates/emails/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/playground/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/tests/test_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/tests/test_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/store/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/celery.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/celery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/settings/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3/storefront/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/.cache/5b/e04a114c5b32205a50ca35e7d4e4cc.json" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/.cache/5b/e04a114c5b32205a50ca35e7d4e4cc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/dist/storefront3_client.e31bb0bc.js" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/dist/storefront3_client.e31bb0bc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/dist/styles.8986bff4.js" beforeDir="false" afterPath="$PROJECT_DIR$/nimap_training_code/django/rest_freamwork/storefront3_client/dist/styles.8986bff4.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nimap_training_code" />
+  </component>
+  <component name="ProjectId" id="2BVXTu2SfNi7oYLUgzQovp52lRj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/suraj/Nimap-infotech/code/repo/recruitement-portal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ec9379-756e-461c-9ef7-8d0d4f75cf4e" name="Changes" comment="" />
+      <created>1656992236560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656992236560</updated>
+    </task>
+    <servers />
+  </component>
+</project>
